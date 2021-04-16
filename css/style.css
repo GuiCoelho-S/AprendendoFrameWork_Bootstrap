@@ -1,0 +1,33 @@
+*{margin:0; padding:0; box-sizing: border-box;}
+.navbar {
+    background-color: gray;
+}
+.quemsomos {
+    background-color: #E79583;
+    text-align: center;
+    padding-top:20px;
+    padding-bottom:20px;
+
+}
+.quemsomos img{
+    width:200px;
+    height: 200px;
+    border-radius: 300px;
+}
+.quemsomos h3{
+    font-size: 35px;
+    color:white;
+    font-family: fantasy;
+}
+.quemsomos p{
+    margin-top:14px;
+    font-size:18px;
+    font-family: arial;
+}
+.documentos {
+    text-align: center;
+}
+.documentos a{
+    text-decoration:none;
+    color:red;
+}
